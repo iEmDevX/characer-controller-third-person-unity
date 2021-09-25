@@ -4,6 +4,6 @@
 - WASD - walk
 - shift to Sprint
 
-> reference from Sebastian Graves - 
+> reference from Sebastian Graves - https://github.com/iEmDevX/character-controller-third-person-unity/blob/main/preview.png?raw=true
 
 
